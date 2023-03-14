@@ -82,4 +82,4 @@ app.delete('/api/v1/product/:id', async (req, res)=>{
 app.listen(4000,()=> console.log('Server is working'))
 
 
-// @demo
+// crud..
