@@ -79,3 +79,5 @@ app.delete('/api/v1/student/delete/:id',async (req, res)=>{
 });
 
 app.listen(4000, ()=> console.log('Server is running on localhost:4000'))
+
+// crud...
